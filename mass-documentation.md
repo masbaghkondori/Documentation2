@@ -1,15 +1,6 @@
-**# Apache Camel #**
+# *** Apache Camel ***
 
-**## first step: **
-** ## first step: **
-** first step: **
-## first step: 
-## * ** first step: ** * 
-**first step:**
-***first step:***
-# ***first step:***
-
-### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
+### ***first step:*** #### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
 
 ### Features: 
 ###* Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
