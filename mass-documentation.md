@@ -1,6 +1,7 @@
-**# Apache Camel **#
+**# Apache Camel #**
 
-** ## first step:
+**## first step: ##**
+** ## first step: ## **
 
 ### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
 
