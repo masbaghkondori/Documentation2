@@ -1,7 +1,7 @@
 # **Apache Camel**
 
-### ***first step:*** #### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
-### ***first step:***#### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
+### ***first step:*** #### watching this simple example on youtube:  [Apache Camel] (https://www.youtube.com/watch?v=jZE-YSHK_gw)  
+
 ### **Features:** 
 ### *-Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.camel-test module has been introduced to test your Enterprise Integration Patterns* 
 ### *-It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, Google drive, etc.*
