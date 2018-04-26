@@ -1,4 +1,8 @@
-
+```ruby
+  def foo
+    puts 'bar'
+  end
+```
 
 **Apache Camel** 
 ###Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
@@ -35,7 +39,7 @@ Between any “from”  and “to” we can do any steps like .process or .trans
 
 Camel Testing
 
-
+sfcsdfdsgdfgdfgdf  tests
 
 ###Spring: transaction management
 
