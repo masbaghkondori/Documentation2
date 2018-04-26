@@ -1,94 +1,30 @@
+**#Apache Camel
 
-http://github.com - automatic!
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-*This text will be italic*
-_This will also be italic_
+**## first step:
 
-**This text will be bold**
-__This will also be bold__
+### watching this simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
 
-_You **can** combine them_
-* Item 1
-* Item 2
-
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-
-http://github.com - automatic!
-[GitHub](http://github.com)
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-SHA-1 hash
-~~this~~
-emoji! :sparkles: :camel: :boom:
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-You can also simply indent your code by four spaces:
-
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-	
-**Apache Camel** 
- ### Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
+### Features: 
+###* Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
 camel-test module has been introduced to test your Enterprise Integration Patterns 
-
-** first step:
-
-### A simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
-### Apache Camel is a mediation.
-### Features: It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, etc.
-
-From JMS system to another file system
-From servlet Api to JMS message 
-It means Apach Camel Transforms or moves between two endpoints and on its way can do  some functions like  Filtering, routing, logging or tracking, changing format.
+###* It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, Google drive, etc.
+###* Apach Camel on its transforming way can do  some functions like  Filtering, routing, logging, tracking orchanging format.
 There are so many endpoints/components like :Google Calander, Google Drive FTPS, Twitter etc.
-Here is a link to list of endpoints:
-http://camel.apache.org/component-list.html
-And every endpoints has own APIs or function to action between that endpoint and another one.
+###*Every endpoints has own APIs or function to action between that endpoint and another one.
 For example: This statement read something from whatever  to Twitter.
 Searching using a producer with static keywords
 from("direct:foo")
   .to("twitter://search?keywords=camel&consumerKey=[s]&consumerSecret=[s]&accessToken=[s]&accessTokenSecret=[s]");
+###* Here is a link to list of endpoints: http://camel.apache.org/component-list.html 
  
- 
-'''For example:'''
-###If you want to ###
-####moving a file or message from the file system like FTPS####
-*1.searching a file in a file system
-1.moving it back to Twitter 
-1.We don’t need to know how twitter works. or understand that API, 
-1.Every one of endpoints supports many parameters like type, move, and so on*
+### For example: If you want to do this thins###
+####*1. moving a file or message from the file system like FTPS *####
+####*1. searching a file in a file system
+####*1. moving it back to Twitter 
+####*1. We don’t need to know how twitter works. or understand that API, 
+####*1. Every one of endpoints supports many parameters like type, move, and so on*
 To do addressing to endpoints is used a “from” and a “to”
-Between any “from”  and “to” we can do any steps like .process or .transform or whatever you want.####
+Between any “from”  and “to” we can do any steps like * .process * or * .transform * or whatever you want.####
 
-Camel Testing
 
-sfcsdfdsgdfgdfgdf  tests
-
-###Spring: transaction management
 
