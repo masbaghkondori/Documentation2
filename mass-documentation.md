@@ -1,16 +1,39 @@
-```ruby
-  def foo
-    puts 'bar'
-  end
-```
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+* Item 1
+* Item 2
+
+Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
 
 **Apache Camel** 
 ###Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
 camel-test module has been introduced to test your Enterprise Integration Patterns###
 
-first step:**
+**first step:**
 
-###A simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  - automatic!
+###A simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
 ###Apache Camel is a mediation.
 ###Features: It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, etc.
 
