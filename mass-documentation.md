@@ -1,4 +1,5 @@
 
+http://github.com - automatic!
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -27,15 +28,40 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+SHA-1 hash
+~~this~~
+emoji! :sparkles: :camel: :boom:
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+You can also simply indent your code by four spaces:
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+	
 **Apache Camel** 
-###Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
-camel-test module has been introduced to test your Enterprise Integration Patterns###
+ ### Camel is a Java library to routing and mediation,so you can easily wire up tests in whatever unit testing framework you use (JUnit 3.x (deprecated), 4.x, or TestNG). However the Camel project has tried to make the testing of Camel as easy and powerful as possible so we have introduced the following features.
+camel-test module has been introduced to test your Enterprise Integration Patterns 
 
-**first step:**
+** first step:
 
-###A simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
-###Apache Camel is a mediation.
-###Features: It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, etc.
+### A simple example on youtube:    https://www.youtube.com/watch?v=jZE-YSHK_gw  -automatic!
+### Apache Camel is a mediation.
+### Features: It has component make interacting between many endpoiints very simple.It moves and transforms messages between endpoints like FTPS, Twitter, etc.
 
 From JMS system to another file system
 From servlet Api to JMS message 
@@ -50,7 +76,7 @@ from("direct:foo")
   .to("twitter://search?keywords=camel&consumerKey=[s]&consumerSecret=[s]&accessToken=[s]&accessTokenSecret=[s]");
  
  
-''' For example: '''
+'''For example:'''
 ###If you want to ###
 ####moving a file or message from the file system like FTPS####
 *1.searching a file in a file system
