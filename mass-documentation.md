@@ -8,11 +8,11 @@
 ### *Apach Camel on its transforming way can do  some functions like  Filtering, routing, logging, tracking orchanging format.*
 ### *There are so many endpoints/components like :Google Calander, Google Drive FTPS, Twitter etc.*
 ### *Every endpoints has own APIs or function to action between that endpoint and another one.*
-###* *Example: The statement below read something from whatever to Twitter.*
+### * *Example: The statement below read something from whatever to Twitter.*
 Searching using a producer with static keywords
 from("direct:foo")
   .to("twitter://search?keywords=camel&consumerKey=[s]&consumerSecret=[s]&accessToken=[s]&accessTokenSecret=[s]");
-### * Here is a link to list of endpoints: http://camel.apache.org/component-list.html 
+### *Here is a link to list of endpoints: http://camel.apache.org/component-list.html 
  
 ### Example: If you want to do this things ###
 #### 1. *moving a file or message from the file system like FTPS* 
